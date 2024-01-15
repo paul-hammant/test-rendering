@@ -24,7 +24,11 @@ You can make a thematic break with three asterisks, like this:
 
 * * *
 
+Douglas McGregor describes as Theory X[^txy], the assumption that employees do not want to work hard and are only motivated by money. If the management team does not closely monitor them, they will do their best to avoid work. McGregor believed theory X was outdated and needed to be replaced by theory Y: the assumption that employees are self-motivated[^txy]. Theory Y assumes that workers take pride in what they do.
+
 By the way, the above formatting is actually *all* you need to know to write a typical novel using Markdown formatting! To write a technical book, however, you'll need to know a bit more Markdown, and learn a bit about Markua.
+
+[^txy] : "Theory X and Theory Y, Douglas McGregor". Education Library. 2021-10-11. Retrieved 2021-10-11.
 
 ## Markdown and Markua
 
